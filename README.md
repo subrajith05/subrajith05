@@ -5,7 +5,7 @@
 
 - 👯 I'm looking to collaborate on **Computer Vision projects**
 
-- 👨‍💻 Check my Portfolio at <a href="subrajith.netlify.app">subrajith.netlify.app</a>
+- 👨‍💻 Check my Portfolio at <a href="https://subrajith.netlify.app">subrajith.netlify.app</a>
 
 - 📫 How to reach me **subrajith.r@gmail.com**
 
