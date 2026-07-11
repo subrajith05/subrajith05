@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subrajith R</h1>
 <h3 align="center">A CSE student deeply interested in Deep Learning and Software Development</h3>
 
-- 🌱 I’m currently learning **Front-End Development and Django**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 👯 I'm looking to collaborate on **Computer Vision projects**
-
-- 👨‍💻 Check my Portfolio at <a href="https://subrajith.netlify.app">subrajith.netlify.app</a>
+- 👯 I'm looking to collaborate on **SDE projects**
 
 - 📫 How to reach me **subrajith.r@gmail.com**
 
