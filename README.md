@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subrajith R</h1>
-<h3 align="center">A CSE student deeply interested in Deep Learning and Software Development</h3>
+<h3 align="center">A CSE student deeply interested in AI and Software Development</h3>
 
 - 🌱 I’m currently learning **SpringBoot**
 
