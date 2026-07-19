@@ -10,9 +10,9 @@ I work across ML, software development, and full-stack systems — from model pi
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/<your-username>)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](<your-linkedin-url>)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](<your-leetcode-url>)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/subrajith05)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subrajith-r-594933293/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/subrajith05)
  
 </p>
 
@@ -56,10 +56,10 @@ I work across ML, software development, and full-stack systems — from model pi
 
 ## 🚀 Projects
 
-**[DocuMind — AI Multi-Agent Research Assistant](https://github.com/<your-username>/documind)**
+**[DocuMind — AI Multi-Agent Research Assistant](https://github.com/subrajith05/Documind)**
 Full-stack RAG research assistant with a 5-agent LangGraph pipeline (Query Analyzer, Retrieval, Summarization, Validation, Response) backed by Gemini. FastAPI + ChromaDB + PostgreSQL + Redis on the backend, React + Vite + Tailwind on the frontend, with semantic chunking and history-aware query disambiguation.
 `Python` `FastAPI` `LangChain` `LangGraph` `ChromaDB` `PostgreSQL` `Redis` `React` `Tailwind CSS`
 
-**[Mental Health Tracker](https://github.com/<your-username>/mental-health-tracker)**
+**[Mental Health Tracker](https://github.com/subrajith05/MentalHealthTracker)**
 Full-stack mood tracking app with JWT-authenticated daily check-ins, role-based access for users and admins, and dashboards for mood trends and day-wise pattern detection.
 `Python` `FastAPI` `React` `SQLite` `SQLAlchemy`
