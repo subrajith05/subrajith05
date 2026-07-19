@@ -5,7 +5,7 @@ I work across ML, software development, and full-stack systems — from model pi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning+%26+NLP;Software+Developer;Full-Stack+%2B+RAG+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning;Deep+Learning+%26+NLP;Software+Developer;Full-Stack+%2B+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
